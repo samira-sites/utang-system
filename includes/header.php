@@ -27,7 +27,6 @@
   </div>
 
   <a href="logout.php">Log out</a>
-  <a href="change_password.php">Change Password</a>
 
 </header>
 <?php endif; ?>
